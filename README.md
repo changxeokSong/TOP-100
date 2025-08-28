@@ -1,7 +1,3 @@
-## Top-K101 Gallery (Full-Width · One per block)
-
-> 이미지가 많아 로딩에 시간이 걸릴 수 있어요. 각 이미지는 화면 너비에 가깝게 크게 표시됩니다.
-
 <p align="center"><img src="TOP-100/grid_U001.png" width="1200" alt="U001" /></p>
 
 <p align="center"><img src="TOP-100/grid_U002.png" width="1200" alt="U002" /></p>
