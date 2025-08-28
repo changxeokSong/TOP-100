@@ -1,3 +1,4 @@
+# CLIP 모델 - Bingsu/clip-vit-base-patch14-ko
 <p align="center"><img src="TOP-100/grid_U001.png" width="1200" alt="U001" /></p>
 
 <p align="center"><img src="TOP-100/grid_U002.png" width="1200" alt="U002" /></p>
